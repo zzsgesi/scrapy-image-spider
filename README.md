@@ -29,4 +29,4 @@
 
 ## 运行结果
 成功爬取图片之家壁纸板块的图片，并通过 ImagesPipeline 批量下载到本地，支持自动翻页与断点续爬。
-![运行结果](images/result.jpg)
+![运行结果](image/result.jpg)
